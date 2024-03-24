@@ -23,7 +23,7 @@
     "@prisma-multi-tenant/shared": "^2.4.2"
   },
   "peerDependencies": {
-    "@prisma/cli": "^2.10.1"
+    "prisma": "^5.11.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.23",
