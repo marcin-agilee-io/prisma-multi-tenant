@@ -1,5 +1,6 @@
 {
-  "version": "2.4.2",
+  "version": "5.11.0",
+  "name": "prisma-multi-tenant",
   "private": "true",
   "scripts": {
     "bootstrap": "npm run _tmp_preinstall && npm i; npm i && npm run link:cli",
